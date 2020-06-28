@@ -17,6 +17,6 @@ Repository containing python projects which help to understand and implement pyt
 - git add -u : stages modifications and deletions, without new files
 - git stage . : stages new files and modifications
 - git remote origin add "" : adds the remote git link to the local repo
-- git commit -m "Msh here" : helps to commit changes with message
+- git commit -m "msg here" : helps to commit changes with message
 - git push : pushes commited changes made locally to git repo
 - git config user.name/email : used to verify creds
